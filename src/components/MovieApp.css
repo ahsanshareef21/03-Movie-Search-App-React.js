@@ -1,0 +1,41 @@
+
+.movApp {
+  text-align: center;
+}
+
+.movApp > h2 {
+  margin: 0px;
+  background-color: brown;
+  padding: 20px;
+  
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 16px;
+}
+
+.main1 {
+  text-align: start;
+  background-color: lightslategray;
+  border: 10px solid palevioletred;
+  padding: 5px;
+  font-weight: bold;
+  width: 20%;
+  margin-top: 15px;
+}
+.main1 > img {
+  width: 250px;
+  height: 200px;
+}
+
+input{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
