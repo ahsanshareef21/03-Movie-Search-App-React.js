@@ -48,7 +48,7 @@ function App() {
         <input
           style={{ backgroundColor: "sky", padding: 10, display: "flex" }}
           type="text"
-          placeholder=" Enter Movie Release Year"
+          placeholder=" Enter User Name"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
